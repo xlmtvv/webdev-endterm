@@ -1,0 +1,48 @@
+# 📌 MacOS system files
+.DS_Store
+.AppleDouble
+._*
+
+# 📌 Node.js (Angular) dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# 📌 Angular environment files
+frontend/src/environments/environment.prod.ts
+frontend/src/environments/environment.ts
+
+# 📌 Python (Django) dependencies
+backend/venv/
+backend/__pycache__/
+backend/db.sqlite3
+
+# 📌 Django environment variables
+backend/.env
+backend/secrets.json
+
+# 📌 IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# 📌 Logs and temp files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 📌 Python cache & compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+
+# 📌 Coverage & testing files
+coverage/
+pytest_cache/
+htmlcov/
+
+# 📌 Docker ignore (если будете использовать Docker)
+docker-compose.override.yml
