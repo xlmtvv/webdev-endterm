@@ -1,7 +1,7 @@
-# [Project Name]
+# VOGUEX
 
 ## Overview
-[Project Name] is an online clothing store designed to provide users with a seamless shopping experience. The project includes a front-end built with Angular and a back-end developed using Django Rest Framework (DRF). The application implements JWT-based authentication, allowing users to securely log in, browse products, and manage their shopping experience.
+VOGUEX is an online clothing store designed to provide users with a seamless shopping experience. The project includes a front-end built with Angular and a back-end developed using Django Rest Framework (DRF). The application implements JWT-based authentication, allowing users to securely log in, browse products, and manage their shopping experience.
 
 ## Team Members
 - **Alisher Mutaliyev** (23B031377)
