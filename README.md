@@ -69,5 +69,3 @@ This project is licensed under the MIT License.
 
 ---
 
-**Repository Link:** [Add your GitHub repository link here]
-
